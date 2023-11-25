@@ -11,6 +11,7 @@
 
 
 <!--START_SECTION:waka-->
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=CaptainSlider&layout=compact&hide_border=true&langs_count=6&title_color=0080FF&text_color=ffffff&bg_color=0d1117" />
 <!--END_SECTION:waka-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaptainSlider&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaptainSlider&theme=2077)
