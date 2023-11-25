@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@018bbef2-7dd5-487d-a142-0b7e74a1231e/1dad3af8-947b-4968-9db0-bcf42b6eb9c5.svg"></embed></figure>
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=CaptainSlider&layout=compact&hide_border=true&langs_count=6&title_color=0080FF&text_color=ffffff&bg_color=0d1117" />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@018bbef2-7dd5-487d-a142-0b7e74a1231e&layout=compact&hide_border=true&langs_count=6&title_color=0080FF&text_color=ffffff&bg_color=0d1117" />
 <!--END_SECTION:waka-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaptainSlider&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaptainSlider&theme=2077)
