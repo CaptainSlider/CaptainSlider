@@ -1,6 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/CaptainSlider" target="_blank">Danilka</a> 
 
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 Happy New Year
 
